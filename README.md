@@ -17,11 +17,12 @@ Diagrama UML para representar a implementação das classes
 
 # Web Scraper 
 O programa tem como objetivo de entrar no site de um e-comerce e extrair informaçoes sobre o produto.
+
 O site escolhido para fazer o scraping foi o e-comerce [**Kabum**](https://kabum.com.br/)
-O programa recebe um ou mais links de produtos (separados por ";") e coleta as informações:
+o programa recebe um ou mais links de produtos (separados por ";") e coleta as informações:
  - Nome do produto completo
  - Preço antes da promoção (caso o produto esteja em promoção)
  - preço atual 
  - preço de cada parcela
  - preço com desconto avista e o valor do desconto
-
+ - Links das imagens do produto
